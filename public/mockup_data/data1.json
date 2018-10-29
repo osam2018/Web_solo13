@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "siteName": "LOL Patchnote",
+      "siteUrl": "https://www.leagueoflegends.co.kr/?m=news",
+      "imgSrc": "lol_icon.jpg",
+      "searchPhrase": "카밀",
+      "newArtNum": 1,
+      "latestCheckDate": "2018-10-19",
+      "groupNumber": 1,
+      "index": 0
+    },
+    {
+      "siteName": "HOTS Patchnote",
+      "siteUrl": "https://heroesofthestorm.com/ko/blog/",
+      "imgSrc": "hots_icon.jpg",
+      "searchPhrase": "케리건",
+      "newArtNum": 2,
+      "latestCheckDate": "2018-10-17",
+      "groupNumber": 1,
+      "index": 1
+    },
+    {
+      "siteName": "서울대학교 공지사항",
+      "siteUrl": "https://www.snu.ac.kr/notice",
+      "imgSrc": "snu_icon.jpg",
+      "searchPhrase": "장학금",
+      "newArtNum": 7,
+      "latestCheckDate": "2018-8-1",
+      "groupNumber": 0,
+      "index": 2
+    },
+    {
+      "siteName": "리치 개인방송",
+      "siteUrl": "https://www.youtube.com/channel/UCxadRQ1BiiejNS039JXNhCg",
+      "imgSrc": "youtube_icon.jpg",
+      "searchPhrase": "",
+      "newArtNum": 1,
+      "latestCheckDate": "2018-9-8",
+      "groupNumber": 3,
+      "index": 3
+    },
+    {
+      "siteName": "덴마",
+      "siteUrl": "https://comic.naver.com/webtoon/list.nhn?titleId=119874",
+      "imgSrc": "denma_icon.jpg",
+      "searchPhrase": "",
+      "newArtNum": 1,
+      "latestCheckDate": "2018-10-23",
+      "groupNumber": 2,
+      "index": 4
+    },
+    {
+      "siteName": "연세대 컴퓨터과학과",
+      "siteUrl": "https://cs.yonsei.ac.kr/sub05_1.php",
+      "imgSrc": "yonsei_icon.jpg",
+      "searchPhrase": "등록금",
+      "newArtNum": 12,
+      "latestCheckDate": "2017-12-13",
+      "groupNumber": 0,
+      "index": 5
+    },
+    {
+      "siteName": "전남대학교 공지사항",
+      "siteUrl": "https://www.jnu.ac.kr/WebApp/web/HOM/COM/Board/board.aspx?boardID=5",
+      "imgSrc": "cheonnam_icon.jpg",
+      "searchPhrase": "",
+      "newArtNum": 2,
+      "latestCheckDate": "2018-9-13",
+      "groupNumber": 0,
+      "index": 6
+    },
+    {
+      "siteName": "꿈의 기업",
+      "siteUrl": "https://comic.naver.com/webtoon/list.nhn?titleId=687915&weekday=mon",
+      "imgSrc": "naverWebtoon_icon.jpg",
+      "searchPhrase": "",
+      "newArtNum": 0,
+      "latestCheckDate": "2017-12-13",
+      "groupNumber": 2,
+      "index": 7
+    },
+    {
+      "siteName": "제이플라 유튜브",
+      "siteUrl": "https://www.youtube.com/channel/UClkRzsdvg7_RKVhwDwiDZOA",
+      "imgSrc": "youtube_icon.jpg",
+      "searchPhrase": "",
+      "newArtNum": 1,
+      "latestCheckDate": "2018-8-29",
+      "groupNumber": 3,
+      "index": 8
+    }
+
+  ]
+}
